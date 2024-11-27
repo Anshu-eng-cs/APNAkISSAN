@@ -1,7 +1,7 @@
 
-# Sharad Commerce
+# ANSHU Commerce
 
-Hi! My name is **Sharad Kumar**, I have created this tutorial to teach MERN Stack for free on YouTube.
+Hi! My name is **ANSHU Kumar**, I have created this tutorial to teach MERN Stack for free on YouTube.
 
 # Prerequisite
 
@@ -30,11 +30,6 @@ MONGO_URI= `mongodb://localhost:27017 or cloud uri`
 STRIPE_KEY=`stripe secret key`
 PRODUCT_PER_PAGE=`8 or any`
 
-_fill each filed with your info respectively_
+_fill each filed with your info respectively
 
-## Author
-
-**Instagram** Click [Here](https://www.instagram.com/sharad__seigns/) **@sharad_seigns**
-**LinkedIn** Click [Here](https://www.linkedin.com/in/sharad-kumar-b2a66225b/) **@Sharad Kumar**
-**Facebook** Click [Here](https://www.facebook.com/sharad.seigns.9/) **@Sharad Seigns**
 
